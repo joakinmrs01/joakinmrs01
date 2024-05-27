@@ -1,0 +1,1 @@
+ssh -T git@github.com   para saber si se puede comunicarce atravez de ssh, si nunca se ha conectado te pedira si quires conectarte (yes) y pones tu contraseña ssh y recordar contaseña.
